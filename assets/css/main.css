@@ -2501,7 +2501,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 100%;
+				width: 50%;
 			}
 
 			.image.main:first-child {
@@ -2523,6 +2523,29 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 			}
+
+/* Image 2*/
+
+.image2 {
+	border: 0;
+	display: inline-block;
+	position: relative;
+}
+
+	.image2.main {
+		display: block;
+		margin: 3rem 0;
+		width: 100%;
+	}
+
+		.image2.main img {
+			width: 100%;
+		}
+
+		.image2.main:first-child {
+			margin-top: 0;
+		}
+
 
 /* List */
 
