@@ -176,7 +176,8 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: #000000;
+		font-weight: 600;
+		color: #ffffff;
 		border-bottom: dotted 1px;
 	}
 
@@ -2854,7 +2855,6 @@ input, select, textarea {
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;
-			color: #ffffff;
 			content: '';
 			display: inline-block;
 			height: 100%;
