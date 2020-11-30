@@ -1,2 +1,2 @@
-# omartinez182.github.io
+# omartinezphi.com
 Personal Site
